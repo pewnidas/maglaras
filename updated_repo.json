@@ -1,0 +1,20 @@
+{
+    "name": "YTKiller Repo",
+    "identifier": "com.pewnidas.ytkillerrepo",
+    "apps": [
+        {
+            "name": "YTKiller",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "Unknown",
+            "version": "1.0.0",
+            "versionDate": "2024-10-02",
+            "downloadURL": "https://github.com/pewnidas/maglaras/releases/download/ytkiller/YTKiller.ipa",
+            "localizedDescription": "Classic YouTube experience with additional features.",
+            "iconURL": "https://github.com/pewnidas/maglaras/blob/main/IMG_0322.jpeg",
+            "tintColor": "018084",
+            "size": 92323840,
+            "notarized": false,
+            "marketplaceID": "com.pewnidas.ytkiller"
+        }
+    ]
+}
